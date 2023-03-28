@@ -46,6 +46,9 @@ Shader "Unlit/MyFirstShader"
             float4 _ColorA;
             float4 _ColorB;
 
+
+            
+
             v2f vert (appdata v)
             {
                 v2f o;
