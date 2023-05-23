@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_Gerstner
+  m_Shader: {fileID: 4800000, guid: 3d93bc178455253449b8da9a91b53e63, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Amplitude: 0.52
+    - _Glossiness: 0.295
+    - _Metallic: 0
+    - _RefractionStrength: 0.25
+    - _Speed: 0.58
+    - _Steepness: 0.67
+    - _WaterFogDensity: 0.5
+    - _Wavelength: 1.99
+    m_Colors:
+    - _Color: {r: 0.83137256, g: 0.19215664, b: 0.32897854, a: 0.22745098}
+    - _Direction: {r: 0.5, g: 0.46, b: 0, a: 0}
+    - _WaterFogColor: {r: 0.20754717, g: 0.30377364, b: 0.8301887, a: 0}
+    - _WaveA: {r: 0.8, g: 0.2, b: 0.12, a: 3.72}
+    - _WaveB: {r: 0, g: 1, b: 0.12, a: 1.27}
+    - _WaveC: {r: 0.23, g: 0.62, b: 0.24, a: 4.77}
+  m_BuildTextureStacks: []
